@@ -16,9 +16,9 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-  docs:
+docs:
   - title: Getting Started
     children:
    - title: "SQL기본"
-     url : /docs/SQL기초/
+     url : /categories/
       
