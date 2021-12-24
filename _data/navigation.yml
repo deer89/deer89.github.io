@@ -1,11 +1,11 @@
 # main links
 main:
-#   - title: "SQL기본"
-#     url : /_pages/SQL기초/
-#   - title: "SQL기초"
-#     url : /sql/
-#   - title: "SQL기초2"
-#     url : /categories/
+   - title: "SQL기본"
+     url : /_pages/SQL기초/
+   - title: "SQL기초"
+     url : /sql/
+   - title: "SQL기초2"
+     url : /categories/
 #  - title: "Tag"
  #   url : /tags/
 
