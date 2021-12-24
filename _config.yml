@@ -253,6 +253,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
 #jekyll-archives:
 #  enabled:
 #    - categories
@@ -286,6 +287,6 @@ defaults:
       share: true
       related: true
       show_date: true
-      sidebar_main : true
-      sidebar:
-        nav: "sidebar-sample"
+      #sidebar_main : true
+    sidebar:
+       nav: "sidebar-sample"
