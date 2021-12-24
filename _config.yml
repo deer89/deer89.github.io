@@ -272,7 +272,6 @@ compress_html:
   ignore:
     envs: development
 
-category_dir : category/
 # Defaults
 defaults:
   # _posts
@@ -292,7 +291,7 @@ defaults:
  # _docs
   - scope:
       path: ""
-      type: docs
+      type: main
     values:
       sidebar:
         nav: "main"
