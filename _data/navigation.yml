@@ -1,7 +1,7 @@
 # main links
 main:
    - title: "SQL기본"
-     url : /SQL기초/
+     url : /_pages/SQL기초/
    - title: "SQL기초"
      url : /sql/
    - title: "SQL기초2"
