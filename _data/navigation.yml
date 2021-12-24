@@ -4,6 +4,8 @@ main:
     url : /categories/
   - title: "Tag"
     url : /tags/
+  - title: "SQL기초"
+    url : SQL기초/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
