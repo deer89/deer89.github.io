@@ -1,5 +1,6 @@
 # main links
 main:
+ children :
   - title: "Category"
     url : /categories/
 #  - title: "Tag"

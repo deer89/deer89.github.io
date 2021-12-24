@@ -288,3 +288,11 @@ defaults:
       related: true
       show_date: true
       sidebar_main : true
+
+ # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "main"
