@@ -272,7 +272,7 @@ compress_html:
   ignore:
     envs: development
 
-
+category_dir : category/
 # Defaults
 defaults:
   # _posts
