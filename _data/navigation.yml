@@ -1,7 +1,5 @@
 # main links
 main:
- - titie: SQL
-  children :
    - title: "SQL기본"
      url : /main/SQL기초/
    - title: "SQL기초"

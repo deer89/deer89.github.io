@@ -20,7 +20,7 @@ title                    : "백앤드 개발자"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "deerDev"
-description              : "An amazing website"
+description              : "An amazing website."
 url                      : "https://deer89.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -286,7 +286,7 @@ defaults:
       share: true
       related: true
       show_date: true
-     # sidebar_main : true
+      sidebar_main : true
 
  # _docs
  
