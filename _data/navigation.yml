@@ -2,9 +2,9 @@
 main:
  children :
   - title: "SQL기본"
-    url : _posts/SQL기초/
+    url : /main/SQL기초/
   - title: "SQL기초"
-    url : _posts/SQL기초/
+    url : /main/SQL기초/
 #  - title: "Tag"
  #   url : /tags/
 
