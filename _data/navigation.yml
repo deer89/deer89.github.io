@@ -1,9 +1,9 @@
 # main links
 main:
    - title: "SQL기본"
-     url : /_pages/SQL기초/
+     url : /_posts/SQL기초/
    - title: "SQL기초"
-     url : /sql/
+     url : /https://github.com/deer89/deer89.github.io/blob/38455d93f5b8013cad0ea593ccf878a9f8d96835/_posts/
    - title: "SQL기초2"
      url : /categories/
 #  - title: "Tag"
@@ -22,13 +22,13 @@ main:
 #   - title: "SQL기본"
 #     url : /categories/
 sidebar-sample:
-  - title: "Parent Page A"
+  - title: "목 차"
     children:
       - title: "Child Page A1"
         url: /_posts/SQL기본/
       - title: "Child Page A2"
         url: /categories/
       - title: "Child Page A3"
-        url: /
+        url: /_posts/SQL기초/
       - title: "Child Page A4"
         url: /
