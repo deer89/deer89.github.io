@@ -253,6 +253,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+sidebar:
+  title: "목록"
+  nav: sidebar-sample
 #jekyll-archives:
 #  enabled:
 #    - categories
