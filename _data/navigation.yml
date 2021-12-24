@@ -3,6 +3,8 @@ main:
  children :
   - title: "Category"
     url : /categories/
+  - title: "SQL기초"
+    url : /docs/SQL기초"
 #  - title: "Tag"
  #   url : /tags/
 
