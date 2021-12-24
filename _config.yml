@@ -289,9 +289,4 @@ defaults:
      # sidebar_main : true
 
  # _docs
-  - scope:
-      path: ""
-      type: main
-    values:
-      sidebar:
-        nav: "main"
+ 
