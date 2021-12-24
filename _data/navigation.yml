@@ -13,3 +13,10 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  docs:
+  - title: Getting Started
+    children:
+   - title: "SQL기본"
+     url : /docs/SQL기초/
+      
