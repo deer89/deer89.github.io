@@ -3,7 +3,7 @@ main:
    - title: "SQL기본"
      url : /SQL기초/
    - title: "SQL기초"
-     url : /_posts/SQL기본/
+     url : /sql/
    - title: "SQL기초2"
      url : /categories/
 #  - title: "Tag"
@@ -32,4 +32,3 @@ sidebar-sample:
         url: /
       - title: "Child Page A4"
         url: /
-  - title: "Paren
