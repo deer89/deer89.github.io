@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "sunrise" #"sunrise" # "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "백앤드 개발자"
+title                    : "백엔드 개발자"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "deerDev"
@@ -277,6 +277,7 @@ compress_html:
 
 # Defaults
 defaults:
+search: true
   # _posts
   - scope:
       path: ""
