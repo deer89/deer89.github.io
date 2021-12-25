@@ -25,7 +25,7 @@ sidebar-sample:
   - title: "목 차"
     children:
       - title: "SQL걸음마"
-        url: /category/SQL걸음마/
+        url: /category/SQL1/
       - title: "SQL기초"
-        url: /category/SQL기초/
+        url: /category/SQL2/
 
