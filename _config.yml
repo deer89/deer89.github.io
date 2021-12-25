@@ -255,7 +255,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
+category_dir: category/
 #jekyll-archives:
 #  enabled:
 #    - categories
