@@ -1,7 +1,7 @@
 ---
 title: "sql1"
 layout: category
-permalink : /sql1/
+permalink : /categories/sql1/
 author_profile : true
 sidebar_main : true
 sidebar:
