@@ -277,7 +277,6 @@ compress_html:
 
 # Defaults
 defaults:
-search: true
   # _posts
   - scope:
       path: ""
@@ -293,3 +292,4 @@ search: true
       sidebar_main : true
     sidebar:
        nav: "sidebar-sample"
+    search: true
