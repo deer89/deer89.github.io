@@ -1,6 +1,6 @@
 ---
 title: "Sql2"
-layout: categories
+layout: category
 permalink : /categories/SQL2/
 author_profile : true
 sidebar_main : true

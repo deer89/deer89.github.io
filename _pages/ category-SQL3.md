@@ -1,6 +1,6 @@
 ---
 title: "Sql3"
-layout: category
+layout: page
 permalink : /categories/SQL3/
 author_profile : true
 sidebar_main : true
