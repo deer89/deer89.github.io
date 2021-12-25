@@ -27,5 +27,8 @@ sidebar-sample:
       - title: "SQL걸음마"
         url: /category/SQL1/
       - title: "SQL기초"
-        url: /category/SQL2/
+        url: /category/SQL2
+      - title: "SQL테스트"
+        url: /category/SQL3/
+
 
