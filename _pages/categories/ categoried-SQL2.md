@@ -1,7 +1,7 @@
 ---
 title: "SQL기초"
 layout: page
-permalink : /category/SQL기초/
+permalink : /category/SQL2/
 author_profile : true
 sidebar_main : true
 sidebar:

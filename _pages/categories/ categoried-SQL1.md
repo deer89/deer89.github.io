@@ -1,7 +1,7 @@
 ---
 title: "SQL기초"
 layout: archive
-permalink : /category/SQL걸음마/
+permalink : /category/SQL1/
 author_profile : true
 sidebar_main : true
 sidebar:
