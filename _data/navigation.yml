@@ -24,11 +24,9 @@ main:
 sidebar-sample:
   - title: "목 차"
     children:
-      - title: "Child Page A1"
-        url: /_posts/SQL기본/
-      - title: "Child Page A2"
-        url: /categories/
-      - title: "Child Page"
+      - title: "SQL걸음마"
+        url: /category/SQL걸음마/
+      - title: "SQL기초"
         url: /category/SQL기초/
       - title: "Child Page A4"
         url: /
