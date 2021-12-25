@@ -7,8 +7,8 @@ sidebar_main : true
 sidebar:
   nav: "sidebar-sample"
 ---
-
-<h5> Posts by Category : {{ page.title }} </h5>
+<center>
+ <h5>Posts by Category : {{ page.title }} </h5></center>
 
 <div class="card">
 {% for post in site.categories.etc %}
