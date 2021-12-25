@@ -1,7 +1,7 @@
 ---
 title: "sql3"
-layout: page
-permalink : /categories/SQL3/
+layout: category
+permalink : /categories/sql3/
 author_profile : true
 sidebar_main : true
 sidebar:

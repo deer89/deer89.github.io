@@ -31,7 +31,7 @@ sidebar-sample:
         url: /categories/SQL2
         category: "sql2"
       - title: "SQL테스트"
-        url: /categories/SQL3/
+        url: /categories/sql3/
         category: "sql3"
 
 
