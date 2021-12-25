@@ -1,6 +1,6 @@
 ---
 title: "Sql2"
-layout: page
+layout: categories
 permalink : /categories/SQL2/
 author_profile : true
 sidebar_main : true
@@ -15,3 +15,5 @@ sidebar:
  <li class="category-posts"><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </div>
+
+
