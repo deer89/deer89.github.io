@@ -26,12 +26,12 @@ sidebar-sample:
     children:
       - title: "SQL걸음마"
         url: SQL1/
-        category: "Sql1"
+        category: "sql1"
       - title: "SQL기초"
         url: /categories/SQL2
-        category: "Sql2"
+        category: "sql2"
       - title: "SQL테스트"
         url: /categories/SQL3/
-        category: "Sql3"
+        category: "sql3"
 
 

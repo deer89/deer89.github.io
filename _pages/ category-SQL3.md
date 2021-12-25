@@ -1,5 +1,5 @@
 ---
-title: "Sql3"
+title: "sql3"
 layout: page
 permalink : /categories/SQL3/
 author_profile : true
