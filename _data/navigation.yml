@@ -28,7 +28,7 @@ sidebar-sample:
         url: /_posts/SQL기본/
       - title: "Child Page A2"
         url: /categories/
-      - title: "Child Page A3"
+      - title: "Child Page"
         url: /category/SQL기초/
       - title: "Child Page A4"
         url: /
