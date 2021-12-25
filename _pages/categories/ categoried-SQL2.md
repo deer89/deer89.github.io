@@ -1,5 +1,5 @@
 ---
-title: "SQL기초"
+title: "SQL2"
 layout: page
 permalink : /category/SQL2/
 author_profile : true

@@ -1,5 +1,5 @@
 ---
-title: "SQL기초"
+title: "SQL1"
 layout: archive
 permalink : /category/SQL1/
 author_profile : true
