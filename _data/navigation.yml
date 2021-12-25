@@ -24,7 +24,7 @@ main:
 sidebar-sample:
   - title: "목 차"
     children:
-      - title: "SQL걸음마 b"
+      - title: "SQL걸음마b"
         url: /category/SQL1/
         category: "Sql1"
       - title: "SQL기초"
