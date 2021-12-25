@@ -24,10 +24,10 @@ main:
 sidebar-sample:
   - title: "목 차"
     children:
-      - title: "SQL걸음마"
+      - title: "SQL걸음마 b"
         url: /category/SQL1/
       - title: "SQL기초"
-        url: /category/SQL2
+        url: /categories/SQL2
       - title: "SQL테스트"
         url: /categories/SQL3/
 

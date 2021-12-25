@@ -1,7 +1,7 @@
 ---
 title: "Sql2"
 layout: page
-permalink : /category/SQL2/
+permalink : /categories/SQL2/
 author_profile : true
 sidebar_main : true
 sidebar:
