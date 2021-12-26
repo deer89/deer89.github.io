@@ -1,5 +1,8 @@
 # main links
 main:
+  - title: "Search"
+    url : /search/
+
   # - title: "SQL기본"
   #   url : /_posts/SQL기초/
   # - title: "SQL기초"
@@ -24,14 +27,12 @@ main:
 sidebar-sample:
   - title: "목 차"
     children:
-      - title: "SQL걸음마"
-        url: /sql1/
-        category: "sql1"
       - title: "SQL기초"
-        url: /categories/SQL2
-        category: "sql2"
-      - title: "SQL테스트"
-        url: /categories/sql3/
-        category: "sql3"
-
-
+        url: categories/sqlbasic
+        category : "SQLbasic"
+      - title: "SQL기본"
+        url: categories/sqladvance
+        category : "SQLadvance"
+      - title: "SQL경험"
+        url: categories/sqlexp
+        category : "SQLexp"
