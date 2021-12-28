@@ -11,6 +11,7 @@
         {% if nav.url %}
           <a href="{{ nav.url | relative_url }}"><span class="nav__sub-title"  style="font-family:'Coming Soon';">{{ nav.title }}{{sum}}</span></a>
         {% else %}
+      {% assign sum = nav.children.size %}
           <span class="nav__sub-title" style="font-family:'Cafe24Oneprettynight';">{{ nav.title }} ( <span sytle ="font-famil:'comming soon';">{{sum}}</span> ) </span>
         {% endif %}
 

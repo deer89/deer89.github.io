@@ -36,3 +36,8 @@ sidebar-sample:
       - title: "SQL경험"
         url: categories/sqlexp
         category : "SQLexp"
+  - title: "기 타"
+    children:
+      - title: "etc"
+        url: categories/etc
+        category : "etc"

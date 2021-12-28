@@ -1,5 +1,5 @@
 ---
-title: "SQLadvance"
+title: "SQL기본"
 layout: archive
 permalink :  categories/sqladvance
 author_profile : true
