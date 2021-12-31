@@ -38,6 +38,6 @@ sidebar-sample:
         category : "SQLexp"
   - title: "기 타"
     children:
-      - title: "etc"
+      - title: "ETC"
         url: categories/etc
         category : "etc"
