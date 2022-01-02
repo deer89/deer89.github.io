@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" #"sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" #"sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -25,8 +25,8 @@ url                      : "https://deer89.github.io"
 #url                      : "http://localhost:4000"  
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "https://user-images.githubusercontent.com/78027688/147877947-b4ac79d6-505e-4d04-8581-592fc6e6c1a7.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png
+logo                     : "https://user-images.githubusercontent.com/78027688/147877827-ed055785-266d-478c-9981-12c2c9409070.PNG" #"https://user-images.githubusercontent.com/78027688/147877464-5cb2f887-3638-4372-b8a0-c8d97df0d751.JPG" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Dev.deer"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://user-images.githubusercontent.com/78027688/147877464-5cb2f887-3638-4372-b8a0-c8d97df0d751.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "코린이"
   location         : "KOREA"
   sidebar:
