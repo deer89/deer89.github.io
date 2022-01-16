@@ -1,6 +1,7 @@
 ---
 categories: SQLbasic
 description: "SQL이 SELECT문 실행 시 논리적으로 실행되는 순서를 표현"
+excerpt: "SQL이 SELECT문 실행 시 논리적으로 실행되는 순서를 표현"
 tag : [SQL기초, SQL순서]
 author_profile : true 
 sidebar:
