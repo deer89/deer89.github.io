@@ -45,3 +45,6 @@ sidebar-sample:
       - title: "ETC"
         url: categories/etc
         category : "etc"
+     - title: "독서"
+        url: categories/reading
+        category : "reading"
