@@ -7,6 +7,8 @@ author_profile : true
 sidebar:
   nav: "sidebar-sample"
 title: "SELECT문장-실행순서"
+toc: true
+toc_sticky: true
 ---
 # SQL 문장실행순서란?
  - SQL 순서는 논리적으로 이해하면 좋을거 같다.
@@ -25,10 +27,10 @@ title: "SELECT문장-실행순서"
      ```
 
 #### 2. 문장실행순서
-```mermaid
+<div class="mermaid">
 graph LR
 2.FROM-->3.WHERE-->4.GROUPBY-->5.HAVING-->6.ORDERBY-->1.SELECT
-```
+</div>
 
 FROM  
 - 대상 테이블을 참조한다.
