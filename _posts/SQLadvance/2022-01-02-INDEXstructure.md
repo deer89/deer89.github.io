@@ -14,11 +14,6 @@ sidebar:
 modifytime:
 ---
 
-#####목차 
-[인덱스기본구조](#1.-인덱스-기본구조)
-[B+Tree구조](#2.-B+Tree-구조)
-[문그림으로 B+Tree 이해하기](#3.-그림으로-B+Tree-이해하기)
-[정리 ](#4.-정리 )
 
 ## 1. 인덱스 기본구조
  - 일반적으로 사용하는 구조는 B*tree 구조
@@ -27,7 +22,7 @@ modifytime:
 
  __B-Tree vs B+Tree 차이__
 |B-Tree |B+tree |
-|---|---|---|
+|---|---|
 |branch 노드에 key와 data를 담을 수 있다|브랜치 노드에 key 리프 노드에만 key와 data를 저장|
 |루트부터 탐색 |노드끼리 Linked list로 연결되어 있다. |
 

@@ -1,11 +1,14 @@
 ---
 title: "MIN/MAX함수 인덱스 사용 방법"
 description : "MIN, MAX 함수 사용 시 인덱스를 활용. 인덱스를 이용한 최대값뽑기"
+excerpt: "MIN, MAX 함수 사용 시 인덱스를 활용. 인덱스를 이용한 최대값뽑기"
 categories: SQLexp
 tag : [오라클, INDEX, MAX값]
 author_profile : true 
 sidebar:
   nav: "sidebar-sample"
+toc: true
+toc_sticky: true
 
 ---
 

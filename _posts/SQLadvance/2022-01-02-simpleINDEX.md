@@ -1,6 +1,7 @@
 ---
 title: "[Oracle] 인덱스란 무엇인가?"
 description: "인덱스를 활용하기 위해 기본 구조를 파악, 더 나아가 인덱스 활용하기"
+excerpt: "인덱스를 활용하기 위해 기본 구조를 파악, 더 나아가 인덱스 활용하기"
 categories: SQLadvance
 summary: 인덱스 기초 다지기, 인덱스란?
 date: '2021-01-02 20:41:00 +0900'
@@ -8,7 +9,8 @@ tag : [SQL기초, 인덱스]
 author_profile : true 
 sidebar:
   nav: "sidebar-sample"
-modifytime:
+toc: true
+toc_sticky: true
 ---
 # 인덱스란?
  - 데이터베이스 테이블의 검색 속도를 향상시키기 위한 자료구조
