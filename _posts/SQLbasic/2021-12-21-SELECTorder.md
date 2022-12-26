@@ -17,6 +17,7 @@ toc_sticky: true
   (예 : 테이블에 없는 쿼리를 where 절에서 호출한 경우 )
 #### 1. SQL 6개의 구문
  - SELECT 문장은 총 6개의 절로 구성될 수 있다.
+
    ```
      1. SELECT 컬럼명(*)  
      2.   FROM 테이블    
@@ -29,7 +30,7 @@ toc_sticky: true
 #### 2. 문장실행순서
 ```mermaid
 flowchart LR
-2.FROM-->3.WHERE-->4.GROUPBY-->5.HAVING-->6.ORDERBY-->1.SELECT
+2.FROM-->3.WHERE-->4.GROUPBY-->5.HAVING-->6.ORDERBY-->1.SELECT;
 ```
 
 FROM  
