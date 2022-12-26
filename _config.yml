@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "deerDev"
 description              : "An amazing website."
 url                      : "https://deer89.github.io"
-#url                      : "http://localhost:4000"  
+#url                      : "http://localhost:4000"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "https://user-images.githubusercontent.com/78027688/147877947-b4ac79d6-505e-4d04-8581-592fc6e6c1a7.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png
@@ -33,7 +33,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "dev-deer" 
+    shortname            : "dev-deer"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -72,7 +72,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related<meta name="google-site-verification" content="Bey1U-C620kB13EpBTe5a8Ox57Usr74v-OQgucaKcO0" />
-google_site_verification : "Bey1U-C620kB13EpBTe5a8Ox57Usr74v-OQgucaKcO0" 
+google_site_verification : "Bey1U-C620kB13EpBTe5a8Ox57Usr74v-OQgucaKcO0"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -196,7 +196,9 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
+mermaid:
+  src: '/js/mermaid.js'
+  src_config: '/js/mermaid_config.js'
 
 # Markdown Processing
 kramdown:
@@ -238,7 +240,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  
+
 #gems: 확실하지않음
 #   - jekyll-sitemap
 
@@ -264,7 +266,7 @@ tag_archive:
   enabled:
     - categories
     - tags
-  layouts: 
+  layouts:
     category: archive-taxonomy
     tag: archive-taxonomy
   permalinks:
@@ -298,4 +300,4 @@ defaults:
       sidebar:
         nav: "sidebar-sample"
     search: true
-  
+
