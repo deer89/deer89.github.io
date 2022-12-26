@@ -9,6 +9,7 @@ sidebar:
 title: "SELECT문장-실행순서"
 toc: true
 toc_sticky: true
+mermaid: true
 ---
 # SQL 문장실행순서란?
  - SQL 순서는 논리적으로 이해하면 좋을거 같다.
