@@ -12,7 +12,7 @@ toc_sticky: true
 ---
 # SQL 문장실행순서란?
  - SQL 순서는 논리적으로 이해하면 좋을거 같다.
- - 실제 옵티마이저가 쿼리변환을해서 실행하는 순서는 다를거라 생각! (예 :조인방식)
+ - 실제 옵티마이저가 쿼리변환을해서 실행하는 순서는 다를거라 생각! (예 :여러 쿼리 조인 사용 시)
  - 쿼리 순서는 옵티마이저가 syntax,semantic 오류를 검증하는 순서이기도 함. 
   (예 : 테이블에 없는 쿼리를 where 절에서 호출한 경우 )
 #### 1. SQL 6개의 구문
@@ -27,10 +27,10 @@ toc_sticky: true
      ```
 
 #### 2. 문장실행순서
-<div class="mermaid">
+```mermaid
 graph LR
 2.FROM-->3.WHERE-->4.GROUPBY-->5.HAVING-->6.ORDERBY-->1.SELECT
-</div>
+```
 
 FROM  
 - 대상 테이블을 참조한다.
