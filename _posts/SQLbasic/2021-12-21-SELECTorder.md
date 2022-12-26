@@ -28,7 +28,7 @@ toc_sticky: true
 
 #### 2. 문장실행순서
 ```mermaid
-graph LR
+flowchart LR
 2.FROM-->3.WHERE-->4.GROUPBY-->5.HAVING-->6.ORDERBY-->1.SELECT
 ```
 
